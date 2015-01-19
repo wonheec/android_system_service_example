@@ -2,6 +2,8 @@
 using namespace android;
 using namespace demo_api;
 
+#define LOG_TAG "binder_demo_c_client"
+
 /*
  * ---------------------------------------------------------------------------
  *

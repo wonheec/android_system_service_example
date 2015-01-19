@@ -1,5 +1,6 @@
 #include "server.h"
 #include <binder/IPCThreadState.h>
+#define LOG_TAG "binder_demo_c_server"
 
 namespace demo_api{
     char* DemoAPI::getName(){

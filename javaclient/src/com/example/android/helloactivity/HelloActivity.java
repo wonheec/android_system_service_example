@@ -33,7 +33,7 @@ import java.lang.reflect.*;
  */
 public class HelloActivity extends Activity {
         private IDemoAPI mService;  
-        private static final String TAG = "HelloActivity IDemoAPI";
+        private static final String TAG = "binder_demo_java_client";
     /**
      * Called with the activity is first created.
      */
